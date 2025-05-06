@@ -26,7 +26,7 @@ class _ParentClassState extends State<ParentClass> {
                       builder: (context) => ClassChild(
                         name: "Zahra",
                         image: "assets/beni.jpg",
-                        lastMessage: "Assalam o alakum...",
+                        lastMessage: "Assalam o alaikum...",
                       ),
                     ));
               },
@@ -38,7 +38,7 @@ class _ParentClassState extends State<ParentClass> {
                 "Zahra",
                 style: TextStyle(color: Colors.white),
               ),
-              subtitle: Text('Okk im coming',
+              subtitle: Text('Assalam o alaikum...',
                   style: TextStyle(
                       color: const Color.fromARGB(255, 179, 177, 177))),
               trailing: Column(
